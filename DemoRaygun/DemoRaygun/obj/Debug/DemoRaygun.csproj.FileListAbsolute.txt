@@ -1,0 +1,16 @@
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\DemoRaygun.exe.config
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\DemoRaygun.exe
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\DemoRaygun.pdb
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\obj\Debug\DemoRaygun.csprojAssemblyReference.cache
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\obj\Debug\DemoRaygun.csproj.CoreCompileInputs.cache
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\obj\Debug\DemoRaygun.exe
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\obj\Debug\DemoRaygun.pdb
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Mindscape.Raygun4Net.dll
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Mindscape.Raygun4Net4.dll
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Mindscape.Raygun4Net.pdb
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Mindscape.Raygun4Net4.pdb
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\obj\Debug\DemoRaygun.csproj.CopyComplete
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Newtonsoft.Json.dll
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\SharpRaven.dll
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\bikram\source\repos\DemoRaygun\DemoRaygun\bin\Debug\Newtonsoft.Json.xml
